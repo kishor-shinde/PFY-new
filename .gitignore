@@ -1,0 +1,10 @@
+.tmp
+.sass-cache
+.project
+.ruby-version
+.settings
+.idea
+src/bower_components
+node_modules
+test-results
+npm-debug.log
